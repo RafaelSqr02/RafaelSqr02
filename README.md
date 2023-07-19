@@ -1,7 +1,8 @@
 ## Olá! Eu sou o Rafael Siqueira :call_me_hand:
 ## 👩‍💻 QA Analyst | Automation Test Analyst | Tester
 
-Sou analista de Quality Assurance e Automation Test Analyst com mais de 3 anos  nos processos de testes, seus escopos e todas as particularidades que integram esse universo. Estou determinado a ser um especialista no segmento, também tenho experiência com testes manuais e automatizados de desktop, web, API e micro-serviços e todo fluxo E2E.
+Sou analista de Quality Assurance e Automation Test Analyst com mais de 3 anos  nos processos de testes, seus escopos e todas as particularidades que integram esse universo.
+Estou determinado a ser um especialista no segmento, também tenho experiência com testes manuais e automatizados de desktop, web, API e micro-serviços e todo fluxo E2E.
 Para elaboração, manutenção e  execução  dos casos e cenários de testes derivados de regras de negócios, task, histórias de usuário etc; Semmpre utilizo o BDD e o Gherkin como padrão, já trabalhei com o Cucumber também.
 Para automação, já utilizei o Selenium, Selenium Web Driver, Robot Framework, Postman + Javascript, entre outros.
 Em minha concepção, as principais caracteristicas da nossa área são: A visão e capacidade analítica para identifcar desde pontos de melhorias nos sistemas até em ciclos de processos no squad e em toda equipe, unir as metodologias ágeis com as entregas e otimizações, ter a inovação como um ponto chave e compreender todas as etapas dos Testes alinhando sempre a pespectiva do squad do dono do produto e do cliente final.
